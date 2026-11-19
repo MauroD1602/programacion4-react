@@ -1,16 +1,5 @@
-# Dependencias
 node_modules/
-
-# Builds
 dist/
-dist-ssr/
-*.local
-
-# Variables de entorno
 .env
 .env.*
 !.env.example
-
-# Sistema y editores
-.DS_Store
-Thumbs.db
